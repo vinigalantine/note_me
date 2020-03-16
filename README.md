@@ -2,8 +2,8 @@
 
 Working only with front-end... Do not refresh
 
--> I will do the back-end when possible! hahaha
--> I truly need to sleep.
+- I will do the back-end when possible! hahaha
+- I truly need to sleep.
 
 ## Project setup
 ```
